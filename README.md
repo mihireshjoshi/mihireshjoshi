@@ -1,8 +1,4 @@
-<style>
-  img{
-    padding: 1vw;
-  }
-</style>
+
 
 <h1 align="center">Hi 👋, I'm Mihiresh Joshi</h1>
 <h3 align="center">A student learning Data Science</h3>
