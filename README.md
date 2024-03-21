@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihireshjoshi&" alt="mihireshjoshi" /></p>
 
 
-### 🏆 My best Project as of now is Cheatbot, you may download the repo and follow instructions mentioned to use it
+### 🏆 My best Project as of now is <a href="https://github.com/mihireshjoshi/Cheatbot">Cheatbot</a>, you may download the repo and follow instructions mentioned to use it
