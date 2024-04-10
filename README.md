@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mihiresh Joshi</h1>
 <h2 align="center">🌟 Aspiring Data Scientist | Web Development Enthusiast | Creative Mind 🌟</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mihireshjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="mihireshjoshi" /> 
 </p>
 
@@ -9,7 +9,7 @@
   <a href="https://github.com/mihireshjoshi"><img src="https://badges.pufler.dev/visits/mihireshjoshi/mihireshjoshi?color=blue&style=flat-square&logo=github"></a>
   <a href="https://github.com/mihireshjoshi"><img src="https://badges.pufler.dev/repos/mihireshjoshi?color=green&style=flat-square&logo=github"></a>
   <a href="https://github.com/mihireshjoshi"><img src="https://badges.pufler.dev/commits/monthly/mihireshjoshi?color=yellow&style=flat-square&logo=github"></a>
-</p>
+</p> -->
 
 ## 🚀 About Me
 I'm on a thrilling journey through the realms of **Data Science** and **Web Development**, building innovative solutions and soaking up new technologies every day. 
