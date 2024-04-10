@@ -28,12 +28,12 @@ I'm on a thrilling journey through the realms of **Data Science** and **Web Deve
 
 ## 📚 Internships
 
-#### 🌞 Summer Internship by CSI
+#### [🌞 Summer Internship by CSI](https://github.com/mihireshjoshi/Student-Placement-Predictor)
 - **Project**: Student Placement Predictor
 - **Description**: Built a machine learning model (classification & regression) to predict placement likelihood and potential salary based on student data like marks, projects, and aptitude tests. Utilized Python, scikit-learn.
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 
-#### ❄️ Winter Internship by IETE
+#### [❄️ Winter Internship by IETE](https://github.com/mihireshjoshi/SummarEase)
 - **Project**: SummerEase
 - **Description**: Developed an NLP project using LLMs, summarizers, and keyword/sentiment analysis to extract and summarize text from PDFs, YouTube videos, and URLs. Features in-app word definition lookups.
 - ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=nlp&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-FFD43B?style=flat-square)
@@ -42,9 +42,9 @@ I'm on a thrilling journey through the realms of **Data Science** and **Web Deve
 
 ## 💡 Top Projects
 
-- **Cheatbot**: An RAG chatbot for personalized knowledge, refining responses through user interaction, powered by LLM.
+- **[Cheatbot](https://github.com/mihireshjoshi/Cheatbot)**: An RAG chatbot for personalized knowledge, refining responses through user interaction, powered by LLM.
   
-- **CareerMatrix**: An AI career advisor utilizing NLP for analyzing resumes and suggesting personalized learning paths.
+- **[CareerMatrix](https://github.com/mihireshjoshi/CareerMatrix)**: An AI career advisor utilizing NLP for analyzing resumes and suggesting personalized learning paths.
   
 - **AuthentiFace**: A secure corporate email platform using two-step facial verification (CNN) and expression detection, developed with TensorFlow and MongoDB.
 
