@@ -1,10 +1,12 @@
-<h1 align="center">👋 Hi, I'm Mihiresh Joshi</h1>
-<h2 align="center">🌟 Aspiring Data Scientist | Web Development Enthusiast | Creative Mind 🌟</h2>
+
+
+![header](https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&text=👋%20Hi,%20I'm%20Mihiresh%20Joshi&reversal=false&animation=fadeIn&fontSize=42&fontAlignY=42&descAlignY=76&section=footer&desc=🌟%20Aspiring%20Data%20Scientist%20|%20Web%20Development%20Enthusiast%20|%20Creative%20Mind%20🌟&descAlign=50&descSize=20&textBg=true)
 
 
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=5229B6&height=60&section=header&text=💥%20Featured%20Project&fontSize=30&fontColor=fff)
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=100&section=header&text=💥%20Featured%20Project&fontSize=30&fontColor=000000)
+
 
 <div align="center">
   <h3><b>🌟 Check out <a href="https://drive.google.com/file/d/1d3tdiwibyG8vo5rodHP9lKB2UZIwhzYt/view?usp=drive_link" style="color: #8B0000;" align="center">Hisaab-Book</a>, my latest project demo video!!! 🌟</b></h3>
@@ -21,10 +23,6 @@
 </div>
 
 
-
-
-
-
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mihireshjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="mihireshjoshi" /> 
 </p>
@@ -35,7 +33,10 @@
   <a href="https://github.com/mihireshjoshi"><img src="https://badges.pufler.dev/commits/monthly/mihireshjoshi?color=yellow&style=flat-square&logo=github"></a>
 </p> -->
 
-## 🚀 About Me
+
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=5229B6&height=60&section=header&text=🚀%20About%20Me&fontSize=30&fontColor=fff)
+
 I'm on a thrilling journey through the realms of **Data Science** and **Web Development**, building innovative solutions and soaking up new technologies every day. 
 - 🔭 Crafting **V-edu**, a next-gen virtual education platform.
 - 🌱 Exploring the depths of **Data Science** and the art of **Web Development**.
@@ -43,14 +44,19 @@ I'm on a thrilling journey through the realms of **Data Science** and **Web Deve
 - 📫 Reach out to me at **mihireshsjoshi@gmail.com**.
 - ⚡ Fun fact: An actor and engineer rolled into one!
 
-### 🌐 Let's Connect
+
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=5229B6&height=60&section=header&text=🌐%20Let's%20Connect&fontSize=30&fontColor=fff)
+
 <p align="center">
   <a href="https://twitter.com/mihireshjoshi"><img src="https://img.shields.io/twitter/follow/mihireshjoshi?label=Follow&style=social" alt="Twitter"></a>
   <a href="https://linkedin.com/in/mihireshjoshi"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/mihireshjoshi"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-## 📚 Internships
+
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=5229B6&height=60&section=header&text=📚%20Internships&fontSize=30&fontColor=fff)
 
 #### [🌞 Summer Internship by CSI](https://github.com/mihireshjoshi/Student-Placement-Predictor)
 - **Project**: Student Placement Predictor
@@ -64,7 +70,9 @@ I'm on a thrilling journey through the realms of **Data Science** and **Web Deve
 
 ---
 
-## 💡 Top Projects
+
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=5229B6&height=60&section=header&text=💡%20Top%20Projects&fontSize=30&fontColor=fff)
 
 - **[Cheatbot](https://github.com/mihireshjoshi/Cheatbot)**: An RAG chatbot for personalized knowledge, refining responses through user interaction, powered by LLM.
   
@@ -74,7 +82,9 @@ I'm on a thrilling journey through the realms of **Data Science** and **Web Deve
 
 ---
 
-## 🔧 Languages, Frameworks & Tools
+
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=5229B6&height=60&section=header&text=🔧%20Languages,%20Frameworks%20&%20Tools&fontSize=30&fontColor=fff)
 
 <p align="center">
   <!-- Coding & Development -->
@@ -123,7 +133,8 @@ I'm on a thrilling journey through the realms of **Data Science** and **Web Deve
 
 
 
-## 📈 My GitHub Stats
+![header](https://capsule-render.vercel.app/api?type=soft&color=5229B6&height=60&section=header&text=📈%20My%20GitHub%20Stats&fontSize=30&fontColor=fff)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihireshjoshi&theme=algolia&hide_border=true&layout=compact" width="400">
   <img src="https://github-readme-stats.vercel.app/api?username=mihireshjoshi&show_icons=true&theme=algolia&hide_border=true" width="400">
