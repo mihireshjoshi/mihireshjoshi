@@ -1,6 +1,30 @@
 <h1 align="center">👋 Hi, I'm Mihiresh Joshi</h1>
 <h2 align="center">🌟 Aspiring Data Scientist | Web Development Enthusiast | Creative Mind 🌟</h2>
 
+
+
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=100&section=header&text=💥%20Featured%20Project&fontSize=30&fontColor=000000)
+
+<div align="center">
+  <h3><b>🌟 Check out <a href="https://drive.google.com/file/d/1d3tdiwibyG8vo5rodHP9lKB2UZIwhzYt/view?usp=drive_link" style="color: #8B0000;" align="center">Hisaab-Book</a>, my latest project demo video!!! 🌟</b></h3>
+</div>
+
+<div style="border: 2px solid #DAA520; padding: 20px; border-radius: 15px; margin-top: 10px;">
+  <ul>
+    <li>📊 <b>Dashboard</b>: Real-time insights and analytics on your inventory.</li>
+    <li>🎤 <b>Voice Commands</b>: Add, delete, or update inventory using voice commands.</li>
+    <li>📷 <b>Image Recognition</b>: Seamlessly add items to your inventory using image recognition.</li>
+    <li>🌐 <b>Multi-language Support</b>: Supports multiple languages to cater to a diverse user base.</li>
+    <li>🔔 <b>Alerts & Notifications</b>: Stay informed with instant alerts and notifications.</li>
+  </ul>
+</div>
+
+
+
+
+
+
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mihireshjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="mihireshjoshi" /> 
 </p>
@@ -99,13 +123,9 @@ I'm on a thrilling journey through the realms of **Data Science** and **Web Deve
 
 
 
-### 📈 My GitHub Stats
+## 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihireshjoshi&theme=algolia&hide_border=true&layout=compact" width="400">
   <img src="https://github-readme-stats.vercel.app/api?username=mihireshjoshi&show_icons=true&theme=algolia&hide_border=true" width="400">
 </p>
 
-### 💥 Featured Project
-<p align="center">
-  <b>🌟 Check out <a href="https://github.com/mihireshjoshi/Cheatbot">Cheatbot</a>, my flagship project. It's where creativity meets functionality! 🌟</b>
-</p>
