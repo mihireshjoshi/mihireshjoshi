@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&text=👋%20Hi,%20I'm%20Mihiresh%20Joshi&reversal=false&animation=fadeIn&fontSize=42&fontAlignY=42&descAlignY=76&section=footer&desc=🌟%20Aspiring%20Data%20Scientist%20|%20Web%20Development%20Enthusiast%20|%20Creative%20Mind%20🌟&descAlign=50&descSize=20&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=soft&height=180&color=2A63B5&text=👋%20Hi,%20I'm%20Mihiresh%20Joshi&reversal=false&animation=fadeIn&fontSize=42&fontAlignY=42&descAlignY=76&section=footer&desc=🌟%20Aspiring%20Data%20Scientist%20|%20Web%20Development%20Enthusiast%20|%20Creative%20Mind%20🌟&descAlign=50&descSize=20&fontColor=fff)
 
 
 
