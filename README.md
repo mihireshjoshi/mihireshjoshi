@@ -4,7 +4,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=60&section=header&text=💥%20Featured%20Project&fontSize=30&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=💥%20Featured%20Project&fontSize=24&fontColor=fff)
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=60&section=header&text=🚀%20About%20Me&fontSize=30&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=🚀%20About%20Me&fontSize=24&fontColor=fff)
 
 I'm on a thrilling journey through the realms of **Data Science** and **Web Development**, building innovative solutions and soaking up new technologies every day. 
 - 🔭 Crafting **V-edu**, a next-gen virtual education platform.
@@ -46,7 +46,7 @@ I'm on a thrilling journey through the realms of **Data Science** and **Web Deve
 
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=60&section=header&text=🌐%20Let's%20Connect&fontSize=30&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=🌐%20Let's%20Connect&fontSize=24&fontColor=fff)
 
 <p align="center">
   <a href="https://twitter.com/mihireshjoshi"><img src="https://img.shields.io/twitter/follow/mihireshjoshi?label=Follow&style=social" alt="Twitter"></a>
@@ -56,7 +56,7 @@ I'm on a thrilling journey through the realms of **Data Science** and **Web Deve
 
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=60&section=header&text=📚%20Internships&fontSize=30&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=📚%20Internships&fontSize=24&fontColor=fff)
 
 #### [🌞 Summer Internship by CSI](https://github.com/mihireshjoshi/Student-Placement-Predictor)
 - **Project**: Student Placement Predictor
@@ -72,7 +72,7 @@ I'm on a thrilling journey through the realms of **Data Science** and **Web Deve
 
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=60&section=header&text=💡%20Top%20Projects&fontSize=30&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=💡%20Top%20Projects&fontSize=24&fontColor=fff)
 
 - **[Cheatbot](https://github.com/mihireshjoshi/Cheatbot)**: An RAG chatbot for personalized knowledge, refining responses through user interaction, powered by LLM.
   
@@ -84,7 +84,7 @@ I'm on a thrilling journey through the realms of **Data Science** and **Web Deve
 
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=60&section=header&text=🔧%20Languages,%20Frameworks%20&%20Tools&fontSize=30&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=🔧%20Languages,%20Frameworks%20&%20Tools&fontSize=24&fontColor=fff)
 
 <p align="center">
   <!-- Coding & Development -->
@@ -156,7 +156,7 @@ I'm on a thrilling journey through the realms of **Data Science** and **Web Deve
 
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=60&section=header&text=📈%20My%20GitHub%20Stats&fontSize=30&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=📈%20My%20GitHub%20Stats&fontSize=24&fontColor=fff)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihireshjoshi&theme=algolia&hide_border=true&layout=compact" width="400">
