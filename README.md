@@ -2,7 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&height=180&color=2A63B5&text=👋%20Hi,%20I'm%20Mihiresh%20Joshi&reversal=false&animation=fadeIn&fontSize=42&fontAlignY=42&descAlignY=76&section=footer&desc=🌟%20Aspiring%20Data%20Scientist%20|%20Web%20Development%20Enthusiast%20|%20Creative%20Mind%20🌟&descAlign=50&descSize=20&fontColor=fff)
 
-
+<p align="center">
+  <a href="https://twitter.com/mihireshjoshi"><img src="https://img.shields.io/twitter/follow/mihireshjoshi?label=Follow&style=social" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/mihireshjoshi"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/mihireshjoshi"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=💥%20Featured%20Project&fontSize=24&fontColor=fff)
 
@@ -45,14 +49,6 @@ I'm an enthusiastic **Data Scientist** and **Web Developer**, driven by a passio
 - ⚡ Fun fact: A unique blend of an actor and an engineer, balancing creativity and logic seamlessly!
 
 
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=🌐%20Let's%20Connect&fontSize=24&fontColor=fff)
-
-<p align="center">
-  <a href="https://twitter.com/mihireshjoshi"><img src="https://img.shields.io/twitter/follow/mihireshjoshi?label=Follow&style=social" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/mihireshjoshi"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/mihireshjoshi"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
 
 
 
