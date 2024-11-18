@@ -37,12 +37,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=🚀%20About%20Me&fontSize=24&fontColor=fff)
 
-I'm on a thrilling journey through the realms of **Data Science** and **Web Development**, building innovative solutions and soaking up new technologies every day. 
-- 🔭 Crafting **V-edu**, a next-gen virtual education platform.
-- 🌱 Exploring the depths of **Data Science** and the art of **Web Development**.
-- 💬 Keen on discussing **Figma, Machine Learning, Frontend Development**.
-- 📫 Reach out to me at **mihireshsjoshi@gmail.com**.
-- ⚡ Fun fact: An actor and engineer rolled into one!
+I'm an enthusiastic **Data Scientist** and **Web Developer**, driven by a passion for creating impactful solutions and exploring cutting-edge technologies. 
+- 🔭 Currently working on **V-edu**, an innovative virtual education platform revolutionizing the learning experience.
+- 🌱 Diving deeper into **Artificial Intelligence**, **Data Science**, and **Web Development** to enhance my expertise.
+- 💬 Love engaging in discussions about **Machine Learning, Frontend Development, and Prototyping with Figma**.
+- 📫 Connect with me at **mihireshsjoshi@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/mihiresh-joshi-651423207/).
+- ⚡ Fun fact: A unique blend of an actor and an engineer, balancing creativity and logic seamlessly!
 
 
 
@@ -56,31 +56,37 @@ I'm on a thrilling journey through the realms of **Data Science** and **Web Deve
 
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=📚%20Internships&fontSize=24&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=📚%20Experience&fontSize=24&fontColor=fff)
 
-#### [🌞 Summer Internship by CSI](https://github.com/mihireshjoshi/Student-Placement-Predictor)
+### [🌞 Code for Good - JPMorgan Chase & Co.](https://www.linkedin.com/in/mihiresh-joshi-651423207/)
+- **Role**: AI Engineer & Back-End Developer
+- **Highlights**: Collaborated during a hackathon to assist a Non-Profit, shortlisted from 50,000 applicants. Demonstrated expertise in teamwork and project management.
+
+### [❄️ Winter Internship - IETE](https://github.com/mihireshjoshi/SummarEase)
+- **Project**: SummarEase
+- **Highlights**: Built a robust NLP-based tool leveraging LLMs to summarize text and analyze sentiment from various sources, including PDFs, YouTube videos, and URLs.
+
+### [🌿 Caldeira Estate - Green Mango](https://caldeira-estate.vercel.app)
+- **Role**: Full Stack Developer
+- **Highlights**: Designed and developed a website for a US-based client, enabling users to explore the estate's portfolio, book stays, purchase products, and more using Next.js 15, Supabase, and Vercel.
+
+### [🌐 Computer Society of India - RAIT](https://github.com/mihireshjoshi/Student-Placement-Predictor)
 - **Project**: Student Placement Predictor
-- **Description**: Built a machine learning model (classification & regression) to predict placement likelihood and potential salary based on student data like marks, projects, and aptitude tests. Utilized Python, scikit-learn.
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-
-#### [❄️ Winter Internship by IETE](https://github.com/mihireshjoshi/SummarEase)
-- **Project**: SummerEase
-- **Description**: Developed an NLP project using LLMs, summarizers, and keyword/sentiment analysis to extract and summarize text from PDFs, YouTube videos, and URLs. Features in-app word definition lookups.
-- ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=nlp&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-FFD43B?style=flat-square)
+- **Highlights**: Developed a machine learning model to predict placement likelihood and potential salary using real-world data, enhancing placement prediction accuracy.
 
 ---
+
 
 
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=💡%20Top%20Projects&fontSize=24&fontColor=fff)
 
-- **[Cheatbot](https://github.com/mihireshjoshi/Cheatbot)**: An RAG chatbot for personalized knowledge, refining responses through user interaction, powered by LLM.
-  
-- **[CareerMatrix](https://github.com/mihireshjoshi/CareerMatrix)**: An AI career advisor utilizing NLP for analyzing resumes and suggesting personalized learning paths.
-  
-- **AuthentiFace**: A secure corporate email platform using two-step facial verification (CNN) and expression detection, developed with TensorFlow and MongoDB.
+- **AQI Nexus**: An IoT-enabled platform for real-time air quality monitoring with AI-driven forecasts and multilingual support.
+- **[Hisaab-Book](https://drive.google.com/file/d/1d3tdiwibyG8vo5rodHP9lKB2UZIwhzYt/view)**: Advanced inventory management system with image detection, voice commands, and Indic language support.
+- **FutureFund**: ANN-based investment recommendation software for retirement planning, including K-means clustering for internal stock allocation.
 
 ---
+
 
 
 
