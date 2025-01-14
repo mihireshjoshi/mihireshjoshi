@@ -62,9 +62,6 @@ I'm an enthusiastic **Data Scientist** and **Web Developer**, driven by a passio
 - **Project**: SummarEase
 - **Highlights**: Built a robust NLP-based tool leveraging LLMs to summarize text and analyze sentiment from various sources, including PDFs, YouTube videos, and URLs.
 
-### [🌿 Caldeira Estate - Green Mango](https://caldeira-estate.vercel.app)
-- **Role**: Full Stack Developer
-- **Highlights**: Designed and developed a website for a US-based client, enabling users to explore the estate's portfolio, book stays, purchase products, and more using Next.js 15, Supabase, and Vercel.
 
 ### [🌐 Computer Society of India - RAIT](https://github.com/mihireshjoshi/Student-Placement-Predictor)
 - **Project**: Student Placement Predictor
