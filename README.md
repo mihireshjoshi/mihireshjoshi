@@ -1,86 +1,106 @@
+# 👋 Hi, I'm Mihiresh Joshi
 
-
-![header](https://capsule-render.vercel.app/api?type=soft&height=180&color=2A63B5&text=👋%20Hi,%20I'm%20Mihiresh%20Joshi&reversal=false&animation=fadeIn&fontSize=42&fontAlignY=42&descAlignY=76&section=footer&desc=🌟%20Aspiring%20Data%20Scientist%20|%20Web%20Development%20Enthusiast%20|%20Creative%20Mind%20🌟&descAlign=50&descSize=20&fontColor=fff)
-
-<p align="center">
-  <a href="https://twitter.com/mihireshjoshi"><img src="https://img.shields.io/twitter/follow/mihireshjoshi?label=Follow&style=social" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/mihireshjoshi"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/mihireshjoshi"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=💥%20Featured%20Project&fontSize=24&fontColor=fff)
-
-
-
-<div align="center">
-  <h3><b>🌟 Check out <a href="https://drive.google.com/file/d/1d3tdiwibyG8vo5rodHP9lKB2UZIwhzYt/view?usp=drive_link" style="color: #8B0000;" align="center">Hisaab-Book</a>, my latest project demo video!!! 🌟</b></h3>
-</div>
-
-<div style="border: 2px solid #DAA520; padding: 20px; border-radius: 15px; margin-top: 10px;">
-  <ul>
-    <li>📊 <b>Dashboard</b>: Real-time insights and analytics on your inventory.</li>
-    <li>🎤 <b>Voice Commands</b>: Add, delete, or update inventory using voice commands.</li>
-    <li>📷 <b>Image Recognition</b>: Seamlessly add items to your inventory using image recognition.</li>
-    <li>🌐 <b>Multi-language Support</b>: Supports multiple languages to cater to a diverse user base.</li>
-    <li>🔔 <b>Alerts & Notifications</b>: Stay informed with instant alerts and notifications.</li>
-  </ul>
-</div>
-
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mihireshjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="mihireshjoshi" /> 
-</p>
+![header](https://capsule-render.vercel.app/api?type=soft&height=170&color=2A63B5&text=👋%20Mihiresh%20Joshi&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=75&fontColor=fff)
 
 <p align="center">
-  <a href="https://github.com/mihireshjoshi"><img src="https://badges.pufler.dev/visits/mihireshjoshi/mihireshjoshi?color=blue&style=flat-square&logo=github"></a>
-  <a href="https://github.com/mihireshjoshi"><img src="https://badges.pufler.dev/repos/mihireshjoshi?color=green&style=flat-square&logo=github"></a>
-  <a href="https://github.com/mihireshjoshi"><img src="https://badges.pufler.dev/commits/monthly/mihireshjoshi?color=yellow&style=flat-square&logo=github"></a>
-</p> -->
-
-
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=🚀%20About%20Me&fontSize=24&fontColor=fff)
-
-I'm an enthusiastic **Data Scientist** and **Web Developer**, driven by a passion for creating impactful solutions and exploring cutting-edge technologies. 
-- 🔭 Currently working on **V-edu**, an innovative virtual education platform revolutionizing the learning experience.
-- 🌱 Diving deeper into **Artificial Intelligence**, **Data Science**, and **Web Development** to enhance my expertise.
-- 💬 Love engaging in discussions about **Machine Learning, Frontend Development, and Prototyping with Figma**.
-- 📫 Connect with me at **mihireshsjoshi@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/mihiresh-joshi-651423207/).
-- ⚡ Fun fact: A unique blend of an actor and an engineer, balancing creativity and logic seamlessly!
-
-
-
-
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=📚%20Experience&fontSize=24&fontColor=fff)
-
-### [🌞 Code for Good - JPMorgan Chase & Co.](https://www.linkedin.com/in/mihiresh-joshi-651423207/)
-- **Role**: AI Engineer & Back-End Developer
-- **Highlights**: Collaborated during a hackathon to assist a Non-Profit, shortlisted from 50,000 applicants. Demonstrated expertise in teamwork and project management.
-
-### [❄️ Winter Internship - IETE](https://github.com/mihireshjoshi/SummarEase)
-- **Project**: SummarEase
-- **Highlights**: Built a robust NLP-based tool leveraging LLMs to summarize text and analyze sentiment from various sources, including PDFs, YouTube videos, and URLs.
-
-
-### [🌐 Computer Society of India - RAIT](https://github.com/mihireshjoshi/Student-Placement-Predictor)
-- **Project**: Student Placement Predictor
-- **Highlights**: Developed a machine learning model to predict placement likelihood and potential salary using real-world data, enhancing placement prediction accuracy.
+  <a href="https://linkedin.com/in/mihiresh-joshi-651423207"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/mihireshjoshi"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"></a>
+  <a href="https://instagram.com/mihireshjoshi"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram"></a>
+</p>
 
 ---
 
+## 🚀 About Me
 
+I’m a **Full Stack Developer** and **AI/ML Engineer** passionate about building systems that blend intelligence, scalability, and great user experience.  
+I enjoy creating end-to-end products, from designing intuitive UIs to deploying efficient backend services and machine learning pipelines.
 
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=💡%20Top%20Projects&fontSize=24&fontColor=fff)
-
-- **AQI Nexus**: An IoT-enabled platform for real-time air quality monitoring with AI-driven forecasts and multilingual support.
-- **[Hisaab-Book](https://drive.google.com/file/d/1d3tdiwibyG8vo5rodHP9lKB2UZIwhzYt/view)**: Advanced inventory management system with image detection, voice commands, and Indic language support.
-- **FutureFund**: ANN-based investment recommendation software for retirement planning, including K-means clustering for internal stock allocation.
+- 🎓 **B.Tech, Computer Engineering (Data Science)** — RAIT (CGPA: 9.45/10)  
+- 📧 Email: **mihireshsjoshi@gmail.com**  
+- 🌐 Portfolio / Links in profile section  
+- ⚡ Fun Fact: I mix engineering logic with actor-level creative energy.
 
 ---
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=🔧%20Languages,%20Frameworks%20&%20Tools&fontSize=24&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=💼%20Experience&fontSize=24&fontColor=fff)
+
+## 🔹 JPMorgan Chase & Co. — SEP Intern (Backend)  
+**Jan – Jun 2025**
+
+- Built a **high-performance microservice** for data migration from external to internal cloud using **Java & SpringBoot**.  
+- Implemented CI/CD using **Jenkins** and **Spinnaker**, deployed on **AWS**.  
+- Automated long-running data movement — reduced execution time **from days to hours**.  
+- Worked with **EaC (Environment as Code)**.  
+- Participated in **InnovationWeek – Expo & Hackathon**.
+
+---
+
+## 🔹 Caldeira Estate — Green Mango (Full Stack)  
+**Sept – Oct 2024**
+
+- Created a full-featured estate website for a US client using **Next.js 15** and **Supabase**.  
+- Implemented:
+  - Stay Booking  
+  - Newsletter Signups  
+  - Product Purchasing  
+  - Portfolio Showcasing  
+  - Contact Forms  
+- Deployed on **Vercel** with an optimized workflow.
+
+---
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=🏆%20Top%20Projects&fontSize=24&fontColor=fff)
+
+### 🔹 FinVerse — App Developer (2024)
+A fintech platform connecting **investors**, **startups**, and **traders**.  
+Includes a real-time funding hub.  
+Tech: **React Native, Supabase**
+
+---
+
+### 🔹 Hisaab-Book — Team Lead & Frontend Dev (2024)
+Advanced inventory management system featuring:
+- Image Detection  
+- Voice Commands  
+- Support for **12 Indic languages**
+
+Tech: **React Native, Next.js, FastAPI, Gemini Vision-Pro, Supabase**
+
+---
+
+### 🔹 AuthentiFace — ML + Frontend (2023)
+Secure email platform with **two-factor facial recognition**.  
+Tech: **OpenCV, TensorFlow, Flask, MongoDB**
+
+---
+
+### 🔹 CheatBot — Full Stack (2024)
+A chatbot powered by **RAG** and custom embeddings.  
+Tech: **Python, LangChain, GeminiPro, ChromaDB**
+
+---
+
+### 🔹 FutureFund — AI/ML + Backend (2024)
+Investment recommendation system using:
+- ANN  
+- K-means clustering  
+- Age-based financial planning (20–60 yrs)
+
+Tech: **TensorFlow, FastAPI, Next.js**
+
+---
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=🎖️%20Achievements&fontSize=24&fontColor=fff)
+
+- 🥇 **Winner — Techathon Kode Konquerors (2024)**  
+- 🥈 **Bhashini Sprint Finalist (2024)** for Hisaab-Book  
+- 🎓 **AWS Cloud Practitioner Certified (2025)**  
+
+---
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=🛠️%20Skills&fontSize=24&fontColor=fff)
+
+
 
 <p align="center">
   <!-- Programming Languages -->
@@ -127,14 +147,12 @@ I'm an enthusiastic **Data Scientist** and **Web Developer**, driven by a passio
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </p>
 
+---
 
-
-
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=📈%20My%20GitHub%20Stats&fontSize=24&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=📊%20GitHub%20Stats&fontSize=24&fontColor=fff)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihireshjoshi&theme=algolia&hide_border=true&layout=compact" width="400">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihireshjoshi&show_icons=true&theme=algolia&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihireshjoshi&theme=algolia&hide_border=true&layout=compact" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mihireshjoshi&show_icons=true&theme=algolia&hide_border=true" width="400" />
 </p>
 
