@@ -149,10 +149,24 @@ Tech: **TensorFlow, FastAPI, Next.js**
 
 ---
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=📊%20GitHub%20Stats&fontSize=24&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=273344&height=40&section=header&text=📈%20My%20Stats&fontSize=24&fontColor=fff)
+
+### 🔹 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihireshjoshi&theme=algolia&hide_border=true&layout=compact" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mihireshjoshi&show_icons=true&theme=algolia&hide_border=true" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihireshjoshi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihireshjoshi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihireshjoshi&theme=tokyonight" />
 </p>
+
+
+
+---
+
+### 🔹 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mihireshsjoshi?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
 
